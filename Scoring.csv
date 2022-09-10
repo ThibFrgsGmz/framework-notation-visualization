@@ -1,0 +1,37 @@
+Quality_Attribute_1;Quality_Attribute_2;FPrime_Score;cFS_Score;TASTE_Score
+Compatibility;Coexistence;3;3;3
+Compatibility;Interoperability;3;3;0
+Usability;Appropriateness recognizability;2;3;1
+Usability;Learnability;2;3;1
+Usability;Popularity;4;3;1
+Usability;Operatibility;2;3;2
+Usability;Human-Computer Interaction;3;2;2
+Usability;Accessibility;3;2;4
+Reliability;Maturity;4;4;1
+Security;Binary-Artifacts;3;3;1
+Security;Branch-Protection;3;4;1
+Security;CI-Tests;4;4;2
+Security;CII-Best Practices;3;3;1
+Security;Code Review;4;4;4
+Security;Contributors;3;3;2
+Security;Dangerous Workflow;2;2;2
+Security;Dependency-Update-Tool;0;0;0
+Security;Fuzzing;0;4;0
+Security;Licence;4;4;3
+Security;Maintained;4;4;2
+Security;Pinned-Dependencies;3;3;3
+Security;SAST;3;4;0
+Security;Security Policy;2;4;2
+Security;Signed Releases;3;4;2
+Security;Token-Permissions;2;4;1
+Security;Vulnerabilities;3;4;3
+Maintainability;Modularity;3;3;1
+Maintainability;Reusability;3;3;1
+Maintainability;Analysability;3;3;4
+Maintainability;Modifiability;3;4;2
+Maintainability;Testability;4;4;2
+Maintainability;Supportability;4;3;1
+Maintainability;Scalability;2;2;2
+Portability;Adaptability;3;1;2
+Portability;Installability;4;3;2
+Portability;Replaceability;3;3;2
